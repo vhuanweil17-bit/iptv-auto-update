@@ -1,0 +1,12 @@
+﻿# 在这里添加你要抓取的 IPTV 源地址
+# 每行一个 URL，# 开头的行为注释
+
+# === 公开 IPTV 源 ===
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
+https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.m3u
+https://raw.githubusercontent.com/YueChan-Live/IPTV/main/IPTV.m3u
+https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
+https://live.zbds.top/tv/iptv4.m3u
+
+# === 更多源（按需添加） ===
+# https://example.com/your-iptv-source.m3u
